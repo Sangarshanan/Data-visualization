@@ -1,2 +1,4 @@
 # Data-visualization
-Visualization of several datasets
+Ananlysis and Visualization of random datasets
+
+(To be updated continuously)
