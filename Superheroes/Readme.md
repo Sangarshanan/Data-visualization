@@ -1,4 +1,4 @@
-# Kaggle Superheros dataset
+# Visualization Superheros dataset
 
 ## Context:
 
