@@ -1,6 +1,8 @@
 # H1B VISA 
 
-This dataset contains five year's worth of H-1B petition data, with approximately 3 million records overall. The columns in the dataset include case status, employer name, worksite coordinates, job title, prevailing wage, occupation code, and year filed.
+This dataset contains five year's worth of H-1B petition data, with approximately 3 million records overall. 
+
+The columns in the dataset include case status, employer name, worksite coordinates, job title, prevailing wage, occupation code, and year it was filed.
 
 
 
