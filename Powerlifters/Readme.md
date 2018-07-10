@@ -1,9 +1,9 @@
 ## Powerlifters Database
 
-- Data: 
+Data: 
 
 https://www.kaggle.com/open-powerlifting/powerlifting-database
 
-- Kernel :
+Kernel :
 
 https://www.kaggle.com/sangarshanan/plotly-visualizations-of-powerlifters
