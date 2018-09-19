@@ -1,4 +1,4 @@
-# The Academy Awards, 1927-2015
+# The Academy Awards: 1927-2015
 
 Data: https://www.kaggle.com/theacademy/academy-awards
 
